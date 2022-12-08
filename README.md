@@ -6,7 +6,7 @@ I'm a web developer based in Barcelona. After years working as a Digital Project
 
 One of the things I like most about my job is that I am constantly learning. I also love the collaboration that characterizes the world of software (and especially open source).  
 
-I'm very interested in web accessibility and it's a field that I'm constantly exploring. 
+I'm very interested in web accessibility and it's a field that I'm constantly exploring. I think building robust and accessible web applications and software is crucial.
 
 ---
 
