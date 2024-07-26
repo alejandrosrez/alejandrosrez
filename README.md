@@ -1,4 +1,4 @@
-# 👨🏽‍💻 Alejandro Suárez Domínguez
+# 👨🏽‍💻 Alejandro Suárez
 
 **`Web developer | Web accessibility`**
 
